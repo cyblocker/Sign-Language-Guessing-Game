@@ -1,0 +1,387 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1468992707764,
+    "meta": 1469260474255,
+    "relativePath": "image"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1467975832000,
+    "meta": 1469260474423,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1467975832000,
+    "meta": 1469260474422,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1467975832000,
+    "meta": 1469260474430,
+    "relativePath": "image\\default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1467975832000,
+    "meta": 1469260474428,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1467975832000,
+    "meta": 1469260474435,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1467975832000,
+    "meta": 1469260474436,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1467975832000,
+    "meta": 1469260474439,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1467975832000,
+    "meta": 1469260474445,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1467975832000,
+    "meta": 1469260474455,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1467975832000,
+    "meta": 1469260474451,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1467975832000,
+    "meta": 1469260474457,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1467975832000,
+    "meta": 1469260474468,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1468992707792,
+    "meta": 1469260474459,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1467975832000,
+    "meta": 1467975832000,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1468992712647,
+    "meta": 1469260474462,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1467975832000,
+    "meta": 1467975832000,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1468992707805,
+    "meta": 1469260474463,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1467975832000,
+    "meta": 1467975832000,
+    "relativePath": "particle\\atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1468992707888,
+    "meta": 1469260474465,
+    "relativePath": "prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1467975832000,
+    "meta": 1469260474471,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1467975832000,
+    "meta": 1469260474475,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1467975832000,
+    "meta": 1469260474479,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1467975832000,
+    "meta": 1469260474481,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1467975832000,
+    "meta": 1469260474484,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1467975832000,
+    "meta": 1469260474487,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1467975832000,
+    "meta": 1469260474489,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1467975832000,
+    "meta": 1469260474494,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1467975832000,
+    "meta": 1469260474498,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1467975832000,
+    "meta": 1469260474501,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1467975832000,
+    "meta": 1469260474504,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1467975832000,
+    "meta": 1469260474506,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "11bb1cb2-9bd9-4b38-aaf1-8fc139ecd981": {
+    "asset": 1469673412616,
+    "meta": 1469673412632,
+    "relativePath": "Start.fire"
+  },
+  "9dfe85b5-7723-488b-94cd-9478bc66ee67": {
+    "asset": 1469673396638,
+    "meta": 1469673396650,
+    "relativePath": "QA.fire"
+  },
+  "ba581128-85ce-4252-946e-ea0dc3e93f20": {
+    "asset": 1469263539698,
+    "meta": 1469263634993,
+    "relativePath": "Global.js"
+  },
+  "bb06e532-aa0a-4797-92aa-f124acc24708": {
+    "asset": 1469673355450,
+    "meta": 1469673355528,
+    "relativePath": "Question.js"
+  },
+  "10e86fa2-352c-4459-9a30-9f9f00f86a95": {
+    "asset": 1469265308430,
+    "meta": 1469265308462,
+    "relativePath": "ButtonClick.js"
+  },
+  "b214be44-bf68-4b1b-b8a0-f14649d89c54": {
+    "asset": 1469458959395,
+    "meta": 1469458959464,
+    "relativePath": "Start.js"
+  },
+  "951ffb85-2ac9-41dd-9ff4-e7d29987890d": {
+    "asset": 1469680155711,
+    "meta": 1469680155725,
+    "relativePath": "EndGame.fire"
+  },
+  "62f44c1f-ff56-4050-825e-63bb6e5bd2d7": {
+    "asset": 1469674503219,
+    "meta": 1469674503707,
+    "relativePath": "EndGame.js"
+  },
+  "e04f8b16-68bf-4667-bb90-01970eb327f8": {
+    "asset": 1469411920384,
+    "meta": 1469411920428,
+    "relativePath": "OpenURL.js"
+  },
+  "ef958309-fc71-4311-817e-4b24e2af910a": {
+    "asset": 1469455809278,
+    "meta": 1469456177624,
+    "relativePath": "A点击2.png"
+  },
+  "565080a5-e719-4c5f-b994-a5f8e3884926": {
+    "asset": 1469455809282,
+    "meta": 1469456177629,
+    "relativePath": "A默认2.png"
+  },
+  "2d3f7b22-0c63-40c6-836c-e5bca40ccd81": {
+    "asset": 1469455809286,
+    "meta": 1469456452983,
+    "relativePath": "点击2.png"
+  },
+  "42a62f6e-073d-4779-a719-e1db268d8b41": {
+    "asset": 1469455809289,
+    "meta": 1469456177781,
+    "relativePath": "默认2.png"
+  },
+  "1f63fcab-c331-40cb-aecd-d5382cc7e12c": {
+    "asset": 1469455006608,
+    "meta": 1469456495925,
+    "relativePath": "A点击.png"
+  },
+  "ddf81907-495c-45fb-bcaf-3587f249ee06": {
+    "asset": 1469455006675,
+    "meta": 1469456495947,
+    "relativePath": "A默认.png"
+  },
+  "4979cb5e-476d-4d84-9985-ac4048fe3955": {
+    "asset": 1469455006678,
+    "meta": 1469456495977,
+    "relativePath": "B点击.png"
+  },
+  "55ac9ce2-6db7-4760-8e75-dc783f4f8d6c": {
+    "asset": 1469455006681,
+    "meta": 1469456496005,
+    "relativePath": "B默认.png"
+  },
+  "b161b2d8-f6f1-4f60-90a4-d1841eae3ac2": {
+    "asset": 1469455006693,
+    "meta": 1469456496032,
+    "relativePath": "人.png"
+  },
+  "3d6301d0-209c-4c1d-88b3-c4bb7f9f47c4": {
+    "asset": 1469455006700,
+    "meta": 1469456496059,
+    "relativePath": "手.png"
+  },
+  "f6cab312-d544-4ed6-8d02-57f70c36b308": {
+    "asset": 1469455006687,
+    "meta": 1469456496220,
+    "relativePath": "点击.png"
+  },
+  "0ed19796-b720-4794-b862-e8629905c4bd": {
+    "asset": 1469455006684,
+    "meta": 1469456496246,
+    "relativePath": "表.png"
+  },
+  "bcf971fa-f470-4fc3-9bf5-957cf42f3fe6": {
+    "asset": 1469455006690,
+    "meta": 1469456496286,
+    "relativePath": "默认.png"
+  },
+  "0cf7a395-c8ed-4ca9-8af5-ef3366b4d9ca": {
+    "asset": 1469456970427,
+    "meta": 1469456973170,
+    "relativePath": "bg.png"
+  },
+  "b4234578-09ca-47ca-b295-b869859a322d": {
+    "asset": 1469457428438,
+    "meta": 1469674488561,
+    "relativePath": "msyh.ttf"
+  },
+  "f8dfaa98-303b-43d3-8507-75bc68713ae3": {
+    "asset": 1469457432180,
+    "meta": 1469674488537,
+    "relativePath": "msyhbd.ttf"
+  },
+  "7457a1dc-3147-4ee8-9a50-8722da7300ff": {
+    "asset": 1469507849936,
+    "meta": 1469507849948,
+    "relativePath": "HandWave.anim"
+  },
+  "920c7334-b0a1-401a-99ae-1a5a6ea4ea52": {
+    "asset": 1469672909272,
+    "meta": 1469672909286,
+    "relativePath": "感谢.anim"
+  },
+  "c12831c4-42cc-4455-99e2-8918269ad972": {
+    "asset": 1469670463218,
+    "meta": 1469670463318,
+    "relativePath": "接受-0.plist"
+  },
+  "d0a17ca3-fa6d-4efd-aad9-ee0ade0b9940": {
+    "asset": 1469670463219,
+    "meta": 1469670463280,
+    "relativePath": "接受-0.png"
+  },
+  "9436d5b3-0317-4d3a-a35c-57dacd38b41b": {
+    "asset": 1469671173386,
+    "meta": 1469671173510,
+    "relativePath": "感谢-0.plist"
+  },
+  "cc0cb7d0-97c3-45c2-8098-2921ca20aaab": {
+    "asset": 1469671173388,
+    "meta": 1469671173466,
+    "relativePath": "感谢-0.png"
+  },
+  "f9f03aeb-45cc-427e-892b-bb82cabca612": {
+    "asset": 1469671657400,
+    "meta": 1469671657407,
+    "relativePath": "接受.anim"
+  },
+  "8a6039a7-22f7-4675-8e44-a3c8d5b01d10": {
+    "asset": 1469672487384,
+    "meta": 1469672487622,
+    "relativePath": "没关系-0.plist"
+  },
+  "6191f13a-8e52-4e08-b1d1-52bd2a6e0865": {
+    "asset": 1469672487384,
+    "meta": 1469672487629,
+    "relativePath": "认真-0.plist"
+  },
+  "b1dd1b60-e0b4-4abf-9f05-5e7e7981fc6f": {
+    "asset": 1469672487385,
+    "meta": 1469672487695,
+    "relativePath": "希望-0.plist"
+  },
+  "5387fd9a-37b7-4b84-97c4-adf6fe551421": {
+    "asset": 1469672487385,
+    "meta": 1469672487687,
+    "relativePath": "肺-0.plist"
+  },
+  "1321db52-2896-4936-8390-88426109c7fe": {
+    "asset": 1469672487388,
+    "meta": 1469672487498,
+    "relativePath": "肺-0.png"
+  },
+  "86bfc19b-1428-4779-9767-5ddafbe8b539": {
+    "asset": 1469672487388,
+    "meta": 1469672487510,
+    "relativePath": "认真-0.png"
+  },
+  "db2b76d7-2ef5-416c-897e-ed8fd6aedb9d": {
+    "asset": 1469672487388,
+    "meta": 1469672487537,
+    "relativePath": "没关系-0.png"
+  },
+  "5b0172fa-83bd-43e7-a7c9-c511f012ef2f": {
+    "asset": 1469672487389,
+    "meta": 1469672487552,
+    "relativePath": "希望-0.png"
+  },
+  "abffb09d-9497-4f5e-8d80-cd5dd2ebe290": {
+    "asset": 1469673007684,
+    "meta": 1469673007691,
+    "relativePath": "希望.anim"
+  },
+  "59d6fbe7-81d6-48ff-b5eb-471af3ec32ba": {
+    "asset": 1469673113204,
+    "meta": 1469673113213,
+    "relativePath": "没关系.anim"
+  },
+  "36f870d2-2b1b-4c0b-8cb3-2de1c2d43035": {
+    "asset": 1469673183990,
+    "meta": 1469673184004,
+    "relativePath": "肺.anim"
+  },
+  "5cc21fd3-dc2d-4fa2-b32b-c140f233b082": {
+    "asset": 1469673289174,
+    "meta": 1469673289182,
+    "relativePath": "认真.anim"
+  },
+  "01163fb1-aaaa-4e5e-8c8f-d7a80dfb1c63": {
+    "asset": 1469680037399,
+    "meta": 1469680037435,
+    "relativePath": "810160683.jpg"
+  }
+}

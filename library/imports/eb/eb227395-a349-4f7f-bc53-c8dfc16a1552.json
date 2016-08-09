@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "感谢-0",
+    "texture": "cc0cb7d0-97c3-45c2-8098-2921ca20aaab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      500,
+      960
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      960
+    ]
+  }
+}

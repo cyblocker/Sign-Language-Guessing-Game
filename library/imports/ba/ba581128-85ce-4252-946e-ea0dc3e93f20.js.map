@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,MAAM,CAAC,OAAO,GAAG;AACb,WAAO,EAAE,CAAC;AACV,YAAQ,EAAE,CAAC;AACX,iBAAa,EAAE,CAAC;CACnB,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "module.exports = {\r\n    correct: 1,\r\n    Anscount: 0,\r\n    QuestionTotal: 5,\r\n};"
+  ]
+}

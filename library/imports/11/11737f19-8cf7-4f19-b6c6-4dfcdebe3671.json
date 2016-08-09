@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "认真-0",
+    "texture": "86bfc19b-1428-4779-9767-5ddafbe8b539",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      500,
+      900
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      900
+    ]
+  }
+}

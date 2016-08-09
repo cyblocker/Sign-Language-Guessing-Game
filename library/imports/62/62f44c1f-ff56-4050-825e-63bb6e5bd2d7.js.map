@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,MAAM,GAAG,OAAO,CAAC,QAAQ,CAAC,CAAC;AAC/B,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;AAUR,cAAM,EAAC;AACH,uBAAS,IAAI;AACb,gBAAI,EAAE,EAAE,CAAC,KAAK;SACjB;KACJ;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,MAAM,GAAG,MAAM,CAAC;AACpB,cAAM,IAAI,MAAM,CAAC,QAAQ,CAAC;AAC1B,cAAM,IAAI,QAAQ,CAAC;AACnB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,IAAI,CAAC;AACnB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,KAAK,CAAC;AACpB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,KAAK,CAAC;AACpB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,KAAK,CAAC;AACpB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,IAAI,CAAC;AACnB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,IAAI,CAAC;AACnB,YAAG,MAAM,CAAC,QAAQ,IAAI,CAAC,EACnB,MAAM,IAAI,KAAK,CAAC;;AAEpB,cAAM,IAAI,KAAK,CAAC;AAChB,YAAI,CAAC,MAAM,CAAC,MAAM,GAAG,MAAM,CAAC;KAC/B;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var Global = require(\"Global\");\r\ncc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n        Result:{\r\n            default: null,\r\n            type: cc.Label,\r\n        },\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        var result = \"你答对了\";\r\n        result += Global.Anscount;\r\n        result += \"题，\\n获得\";\r\n        if(Global.Anscount == 0)\r\n            result += \"小白\";\r\n        if(Global.Anscount == 1)\r\n            result += \"入门者\";\r\n        if(Global.Anscount == 2)\r\n            result += \"小灵通\";\r\n        if(Global.Anscount == 3)\r\n            result += \"小灵通\";\r\n        if(Global.Anscount == 4)\r\n            result += \"大师\";\r\n        if(Global.Anscount == 5)\r\n            result += \"大师\";\r\n        if(Global.Anscount == 6)\r\n            result += \"轰炸机\";\r\n        \r\n        result += \"称号！\";\r\n        this.Result.string = result;\r\n    },\r\n\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

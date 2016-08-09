@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "肺-0",
+    "texture": "1321db52-2896-4936-8390-88426109c7fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      180
+    ]
+  }
+}

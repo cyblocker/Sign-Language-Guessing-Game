@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "认真",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5d69672d-2fa9-4f6e-981c-248712b8d31b"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "d9b6ba8f-0636-4c02-a614-d8aedb559428"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "b8ebf35f-dce3-4d43-9b4b-452ce0840453"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "09848688-e7f2-4b72-ae3b-485c752187f8"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "9ce2460c-a17e-417c-ae71-2ceb86b241ff"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "2537a9b1-9663-46e0-b545-1107e7d51b59"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f0a453a7-b8f4-4599-a238-bf66bc2c74e1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

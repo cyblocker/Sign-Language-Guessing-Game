@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "点击",
+    "texture": "f6cab312-d544-4ed6-8d02-57f70c36b308",
+    "atlas": "",
+    "rect": [
+      21,
+      21,
+      490,
+      490
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      532,
+      532
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "接受",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5ee11193-73d5-4ffb-b704-678f684e4d50"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "08789b95-29e3-49b5-ac68-cec32ac0c20f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "f1b6035c-0674-4087-a124-a604e0306348"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b8347709-0ff9-4ba3-b812-01df20a69eed"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "9a26509a-9950-4edd-b3ef-873e75f7f7b8"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "1607c675-7407-4458-8796-caf4a52d13a8"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f6c373ac-3d3a-4e41-a519-09bc3f668325"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.08333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.25,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.3333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.4166666666666667,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    }
+  ]
+}

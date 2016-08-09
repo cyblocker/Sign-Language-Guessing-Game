@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "希望-0.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "4_10": {
+      "__uuid__": "d7cce6eb-8fde-4ee7-aedd-0ae89527a52d"
+    },
+    "4_11": {
+      "__uuid__": "0ac458c1-16dd-4686-8217-3c8f56288555"
+    },
+    "4_12": {
+      "__uuid__": "d7bba8b5-ddec-43ef-9939-a90a9ee298d5"
+    },
+    "4_13": {
+      "__uuid__": "22883d0c-6c64-47c6-b5c4-7fb39828f3ba"
+    },
+    "4_14": {
+      "__uuid__": "7f19a7c8-6fee-487b-9f48-004e11caa94b"
+    },
+    "4_6": {
+      "__uuid__": "92435978-7908-4483-bbcc-f7e1512fecec"
+    },
+    "4_7": {
+      "__uuid__": "c06c5818-0130-4da4-97fd-bda8ef487ddf"
+    },
+    "4_8": {
+      "__uuid__": "0b3ac204-c62a-4ff5-bfa7-87256370378c"
+    },
+    "4_9": {
+      "__uuid__": "ad3ff153-f530-4c4e-9473-588a8f3fd7af"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "肺-0.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "7_12": {
+      "__uuid__": "7acbbdf2-1d52-49e5-b34b-bfb976f19d93"
+    },
+    "7_13": {
+      "__uuid__": "eb223b8d-1155-49b7-a905-48a3beb19703"
+    },
+    "7_6": {
+      "__uuid__": "66e68748-270c-4731-9fd4-e4fb13c30975"
+    },
+    "7_7": {
+      "__uuid__": "6f2c7cd2-d0c5-4702-9a9b-5d480bffae28"
+    },
+    "7_8": {
+      "__uuid__": "5a8052ae-6263-4ce5-bc01-9a437a36c1fc"
+    },
+    "7_9": {
+      "__uuid__": "dacae1f5-b951-4caa-afd7-82eb88b54256"
+    }
+  }
+}

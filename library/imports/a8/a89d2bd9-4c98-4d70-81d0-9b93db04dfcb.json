@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "B点击",
+    "texture": "4979cb5e-476d-4d84-9985-ac4048fe3955",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      306,
+      307
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      306,
+      307
+    ]
+  }
+}

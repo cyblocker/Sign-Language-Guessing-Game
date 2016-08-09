@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,MAAM,GAAG,OAAO,CAAC,QAAQ,CAAC,CAAC;AAC/B,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;AAUR,gBAAQ,EAAE,CAAC;KACd;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;AACD,YAAQ,EAAE,kBAAS,KAAK,EAAE;AACtB,YAAI,MAAM,GAAG,KAAK,CAAC,MAAM,CAAC,YAAY,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC;AAClD,YAAG,IAAI,CAAC,QAAQ,IAAI,MAAM,CAAC,OAAO,EAAC;AAC/B,iBAAK,CAAC,MAAM,CAAC,aAAa,CAAE,IAAI,EAAE,CAAC,KAAK,CAAC,WAAW,CAAC,SAAS,EAAE,IAAI,CAAC,CAAC,CAAC;SAC1E,MACG;AACA,iBAAK,CAAC,MAAM,CAAC,aAAa,CAAE,IAAI,EAAE,CAAC,KAAK,CAAC,WAAW,CAAC,OAAO,EAAE,IAAI,CAAC,CAAC,CAAC;SACxE;KACJ;;;;;CAKJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var Global = require(\"Global\");\r\ncc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n        ButtonID: 0,\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n\r\n    },\r\n    callback: function(event) {\r\n        var canvas = event.target.getComponent(cc.Canvas);\r\n        if(this.ButtonID == Global.correct){\r\n            event.target.dispatchEvent( new cc.Event.EventCustom('Correct', true));\r\n        }\r\n        else{\r\n            event.target.dispatchEvent( new cc.Event.EventCustom('Wrong', true));\r\n        }\r\n    }\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}
